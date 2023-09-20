@@ -7,5 +7,5 @@ class Solution:
                 return [hash[x],i]
             hash[nums[i]] = i
         return [-1,-1]
-        
+        #deneme
                 
