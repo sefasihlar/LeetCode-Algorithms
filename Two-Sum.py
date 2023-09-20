@@ -8,4 +8,5 @@ class Solution:
             hash[nums[i]] = i
         return [-1,-1]
         #deneme
+        #deneme2
                 
